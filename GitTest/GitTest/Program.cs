@@ -20,6 +20,7 @@ namespace OOAD
             string y = Console.ReadLine();
             int Y = Convert.ToInt32(y);
             Console.WriteLine("Max value equal to: " + Math.Max(X, Y));
+            Console.WriteLine("--------------------------");
         }
     }
 }
