@@ -11,6 +11,8 @@ namespace OOAD
         static void Main(string[] args)
         {
             Console.WriteLine("--------------------------");
+            Console.WriteLine("-------Test-github--------");
+            Console.WriteLine("--------------------------");
             Console.WriteLine("enter the value of X");
             string x = Console.ReadLine();
             int X = Convert.ToInt32(x);
